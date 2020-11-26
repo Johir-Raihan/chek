@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header part */
+/* header section1 */
+
+.header-section1{
+    width: 100%;
+    float: left;
+    background-color: #223047;
+    
+}
+.logo{
+    width: 33%;
+    float: left;
+
+}
+.menu{
+    width: 33%;
+    float: left;
+}
+.btn{
+    width: 33%;
+    float: left;
+}
+/* header section2 */
+.header-section2{
+    width: 100%;
+    float: left;
+    background-color: #223047;
+    
+
+}
+.writing{
+    width: 33%;
+    float: left;
+    
+    
+
+}
+.btn{
+    width: 33%;
+    float: left;
+    
+
+}
+.mobile{
+    width: 33%;
+    float: left;
+    margin-bottom: -10px;
+}
+/* main section */
+.main section{
+    width: 100%;
+    float: left;
+    background-color: #ae96c3; 
+}
+.img{
+    margin:0% 40% 0% 30%;
+}
